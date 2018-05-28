@@ -11,6 +11,7 @@
 
 ## android-anko-sample
 Użytkownik: frosty Hasło: snowman
+
 Pobrana z blogu:
 https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
 
