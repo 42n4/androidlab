@@ -8,6 +8,7 @@
  - Konfiguracja plików build.gradle: głównego i z modułu app (odszukujemy wersji programów np. w Internecie Github i wpisujemy najnowsze release)
  - np. ostatnie stabilne wydanie Kotlina: https://github.com/JetBrains/kotlin/releases/tag/v1.2.41 (trzeba przewinąć kilka stron releasów na githubie) wpisujemy do build.gradle,
  - np. ostatnie stabilne wydanie anko https://github.com/Kotlin/anko/releases/tag/v0.10.5 wpisujemy do build.gradle
+ - Przykładowe odnośniki https://github.com/pwasiewi/eulinks/tree/master/sw_android
 
 ## android-anko-sample
 Użytkownik: frosty Hasło: snowman
